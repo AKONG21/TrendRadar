@@ -1241,7 +1241,7 @@ class NewsAnalyzer:
             ("bilibili-hot-search", "bilibili 热搜"),
             ("cls-hot", "财联社热门"),
             ("ifeng", "凤凰网"),
-            ("sputniknewscn", "今日俄罗斯"),
+            ("sputniknewscn", "卫星通讯社"),
             ("kaopu", "靠谱新闻"),
             "kuaishou",
             "weibo",
