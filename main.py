@@ -1235,13 +1235,13 @@ class NewsAnalyzer:
         # 要爬取的网站ID列表
         ids = [
             ("toutiao", "今日头条"),
-            ("baidu", "百度热搜"),
+            ("cankaoxiaoxi", "参考消息"),
             ("wallstreetcn-hot", "华尔街见闻"),
             ("thepaper", "澎湃新闻"),
             ("bilibili-hot-search", "bilibili 热搜"),
             ("cls-hot", "财联社热门"),
             ("ifeng", "凤凰网"),
-            "tieba",
+            "kuaishou",
             "weibo",
             "douyin",
             "zhihu",
